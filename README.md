@@ -1,3 +1,3 @@
 Lilsnek is a programming language made for fun, easy to understand, and simplifies Lua (currently in beta).
 
-![GitHub Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20230110%2Foriginal%2Fpngtree-little-snake-animal-ip-element-image-vector-illustration-png-image_8899743.png&tbnid=9epoP7CoyaHl3M&vet=12ahUKEwi2xcKd7PeAAxVliv0HHff8CHQQMygRegQIARBx..i&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Flittle-snake&docid=QNM3RhQrqenLVM&w=1200&h=1200&q=lil%20snake%20drawing%20no%20copyright&client=firefox-b-d&ved=2ahUKEwi2xcKd7PeAAxVliv0HHff8CHQQMygRegQIARBx)
+![GitHub Logo](https://github.com/nuc2222/Lilsnek/blob/main/lilsnek/lsrp.png)
